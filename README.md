@@ -1,3 +1,11 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarot-shogun
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarot-shogun)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tarot-shogun)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 - 👋 Hi, I’m @tarot-shogun
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

@@ -1,9 +1,9 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarot-shogun
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarotshogun
 )](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarot-shogun)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarotshogun)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tarot-shogun)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tarotshogun)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 👋 Hi, I’m @tarot-shogun
